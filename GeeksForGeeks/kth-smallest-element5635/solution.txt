@@ -1,3 +1,11 @@
+/*
+ * Problem: Kth Smallest
+ * Platform: GeeksforGeeks
+ * Difficulty: Medium
+ * Language: Unknown
+ * URL: https://www.geeksforgeeks.org/problems/kth-smallest-element5635/
+ */
+
 class Solution {
   public:
     int kthSmallest(vector<int> &arr, int k) {
